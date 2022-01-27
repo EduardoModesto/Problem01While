@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\CoursoJava\Problem\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3828735531.index
+2202359820.index
